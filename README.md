@@ -8,15 +8,16 @@ My extensive experience and skills in PHP development allow me to quickly and ef
 
 In addition to my professional work, I am also an active contributor to open source. I contributed to projects such as [laravel/framework](https://github.com/laravel/framework), [nunomaduro/termwind](https://github.com/nunomaduro/termwind), [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner), e.t.c.
 
-I am also the creator of many powerful, open-source tools:
+### I am also the creator of many powerful, open-source tools:
  - [Birddog](https://github.com/roadrunner-server/birddog) - for RoadRunner server monitoring, 
  - [Buggregator](https://github.com/buggregator/spiral-app) - for PHP applications debugging, 
  - [Metrixio](https://github.com/metrixio/dashboard) - for tracking metrics from different platforms, such as Twitter, GitHub, ...
  - [butschster/meta-tags](https://github.com/butschster/LaravelMetaTags) - Powerful and extendable tools for managing SEO Meta Tags in your Laravel project
+ - [SleepingOwlAdmin](https://github.com/LaravelRUS/SleepingOwlAdmin) - Administrative interface builder for Laravel (Laravel admin)
  
 > You can find all my packages on [packagist](https://packagist.org/users/butschster/packages/)
 
-These projects have allowed me to demonstrate my skills in project development and management, and have given me the opportunity to create valuable resources for the PHP community.
+**These projects have allowed me to demonstrate my skills in project development and management, and have given me the opportunity to create valuable resources for the PHP community.**
 
 ### Conclusion
 I'm always looking for new opportunities to learn and grow, and I love contributing to open source. Feel free to reach out if you want to chat or collaborate – I'm always open to new connections and projects.
