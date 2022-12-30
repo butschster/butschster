@@ -1,16 +1,29 @@
 ### Hi there, I'm butschster! 👋
 
-<br/>
-
 [![butschster github stats](https://github-readme-stats.vercel.app/api?username=butschster&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
+I'm a highly experienced fullstack PHP developer with over 15 years of development experience under my belt. I'm currently working at SpiralScout, where I'm building the open source Spiral Framework and diving into the [Spiral Framework](https://github.com/spiral), [Cycle ORM](https://github.com/cycle), [Temporalio](https://temporal.io/), and [RoadRunner](https://github.com/roadrunner-server).
+
+My extensive experience and skills in PHP development allow me to quickly and effectively solve problems and deliver top-quality solutions. I have a strong background in Laravel, VueJS, TailwindCSS. 
+
+In addition to my professional work, I am also an active contributor to open source. I contributed to projects such as [laravel/framework](https://github.com/laravel/framework), [nunomaduro/termwind](https://github.com/nunomaduro/termwind), [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner), e.t.c.
+
+I am also the creator of many powerful, open-source tools:
+ - [Birddog](https://github.com/roadrunner-server/birddog) - for RoadRunner server monitoring, 
+ - [Buggregator](https://github.com/buggregator/spiral-app) - for PHP applications debugging, 
+ - [Metrixio](https://github.com/metrixio/dashboard) - for tracking metrics from different platforms, such as Twitter, GitHub, ...
+ - [butschster/meta-tags](https://github.com/butschster/LaravelMetaTags) - Powerful and extendable tools for managing SEO Meta Tags in your Laravel project
+ 
+> You can find all my packages on [packagist](https://packagist.org/users/butschster/packages/)
+
+These projects have allowed me to demonstrate my skills in project development and management, and have given me the opportunity to create valuable resources for the PHP community.
+
+### Conclusion
+I'm always looking for new opportunities to learn and grow, and I love contributing to open source. Feel free to reach out if you want to chat or collaborate – I'm always open to new connections and projects.
+
+**Twitter**: [@ButscH](https://twitter.com/ButscH)
+**Telegram**: [@butschster](https://t.me/butschster)
+
+---
+
 [![Codersrank widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=butschster&layout=horizontal&width=240&badges=3&branding=false&style=--header-bg-color:%23111;--border-radius:10px;--name-font-size:0.8em;--rank-font-size:0.5em;--bg-color:%23222;--badge-bg-color:%23111;--badge-text-color:%23aaa)](https://profile.codersrank.io/user/butschster/)
-
-### 📕 Latest Blog Post
-
-<!-- BLOG-POST-LIST:START -->
-- [A server for debugging more than just Laravel applications.](https://butschster.medium.com/server-for-debugging-not-only-laravel-applications-252814e2931)
-- [Сервер для дебага Laravel приложений и не только.](https://butschster.medium.com/%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D0%B1%D0%B0%D0%B3%D0%B0-laravel-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B8-%D0%BD%D0%B5-%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE-4fed54667099)
-- [Настраиваем backup для своего Laravel проекта](https://butschster.medium.com/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%B0%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC-backup-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B2%D0%BE%D0%B5%D0%B3%D0%BE-laravel-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0-4ea9429e494e)
-- [Advanced Laravel route parameters casting.](https://butschster.medium.com/laravel-route-parameters-casting-1f9ba707146b)
-<!-- BLOG-POST-LIST:END -->
