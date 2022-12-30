@@ -1,6 +1,6 @@
 ### Hi there, I'm butschster! 👋
 
-[![butschster github stats](https://github-readme-stats.vercel.app/api?username=butschster&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+ ![butschster winter logo](https://user-images.githubusercontent.com/773481/210045623-f604d623-cdb9-4db9-b70a-938359d2925c.png)
 
 I'm a highly experienced fullstack PHP developer with over 15 years of development experience under my belt. I'm currently working at SpiralScout, where I'm building the open source Spiral Framework and diving into the [Spiral Framework](https://github.com/spiral), [Cycle ORM](https://github.com/cycle), [Temporalio](https://temporal.io/), and [RoadRunner](https://github.com/roadrunner-server).
 
@@ -25,6 +25,9 @@ I'm always looking for new opportunities to learn and grow, and I love contribut
 **Twitter**: [@ButscH](https://twitter.com/ButscH)
 **Telegram**: [@butschster](https://t.me/butschster)
 
----
 
+<!--
 [![Codersrank widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=butschster&layout=horizontal&width=240&badges=3&branding=false&style=--header-bg-color:%23111;--border-radius:10px;--name-font-size:0.8em;--rank-font-size:0.5em;--bg-color:%23222;--badge-bg-color:%23111;--badge-text-color:%23aaa)](https://profile.codersrank.io/user/butschster/)
+-->
+
+[![butschster github stats](https://github-readme-stats.vercel.app/api?username=butschster&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
