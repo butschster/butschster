@@ -1,6 +1,6 @@
 ### Hi there, I'm butschster! 👋
 
- ![butschster winter logo](https://user-images.githubusercontent.com/773481/210045623-f604d623-cdb9-4db9-b70a-938359d2925c.png)
+![butschster](https://github.com/butschster/butschster/assets/773481/cc055093-d58a-4929-8d6f-b5d6e2f26aa5)
 
 I'm a highly experienced fullstack PHP developer with over 15 years of development experience under my belt. I'm currently working at SpiralScout, where I'm building the open source Spiral Framework and diving into the [Spiral Framework](https://github.com/spiral), [Cycle ORM](https://github.com/cycle), [Temporalio](https://temporal.io/), and [RoadRunner](https://github.com/roadrunner-server).
 
