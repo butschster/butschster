@@ -11,7 +11,6 @@ In addition to my professional work, I am also an active contributor to open sou
 ### I am also the creator of many powerful, open-source tools:
  - [Birddog](https://github.com/roadrunner-server/birddog) - for RoadRunner server monitoring, 
  - [Buggregator](https://github.com/buggregator/spiral-app) - for PHP applications debugging, 
- - [Metrixio](https://github.com/metrixio/dashboard) - for tracking metrics from different platforms, such as Twitter, GitHub, ...
  - [butschster/meta-tags](https://github.com/butschster/LaravelMetaTags) - Powerful and extendable tools for managing SEO Meta Tags in your Laravel project
  - [SleepingOwlAdmin](https://github.com/LaravelRUS/SleepingOwlAdmin) - Administrative interface builder for Laravel (Laravel admin)
  
@@ -19,12 +18,13 @@ In addition to my professional work, I am also an active contributor to open sou
 
 **These projects have allowed me to demonstrate my skills in project development and management, and have given me the opportunity to create valuable resources for the PHP community.**
 
+### I'm really excited about [Yii3](https://www.yiiframework.com/yii3-progress) too and can't wait to give it a try!
+
 ### Conclusion
 I'm always looking for new opportunities to learn and grow, and I love contributing to open source. Feel free to reach out if you want to chat or collaborate – I'm always open to new connections and projects.
 
 **Twitter**: [@ButscH](https://twitter.com/ButscH)
 **Telegram**: [@butschster](https://t.me/butschster)
-
 
 <!--
 [![Codersrank widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=butschster&layout=horizontal&width=240&badges=3&branding=false&style=--header-bg-color:%23111;--border-radius:10px;--name-font-size:0.8em;--rank-font-size:0.5em;--bg-color:%23222;--badge-bg-color:%23111;--badge-text-color:%23aaa)](https://profile.codersrank.io/user/butschster/)
